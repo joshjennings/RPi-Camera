@@ -1,7 +1,7 @@
 # raspberry-pi-camera
-A simple Raspberry Pi camera with video recording option
+A simple Raspberry Pi camera with video recording option. Cloned from gplhedge on 9/7/2018.
 
-#Required hardware
+# Required hardware
 1. Raspberry Pi 2 Model B
 2. Raspberry Pi Camera from OmniVision technologies.
 3. Two push button switches.
